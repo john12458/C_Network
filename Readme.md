@@ -1,5 +1,5 @@
 # C Network
-
+_
 ##HW1
 
 ### webFork.out
@@ -14,7 +14,6 @@
 
 - For demo 
 
-** The server will auto open the "index.html" when client connected.
+  *   The server will auto open the "index.html" when client connected.
 
-_____
 
