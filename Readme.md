@@ -6,9 +6,11 @@
 
 ### webSelect.out
 
-- From serverSelect.c,use by select()
+- From serverSelect.c, use by select()
 
 ### index.html
 
-- demo for index
+- For demo 
+
+** The server will auto open the "index.html" when client connected.
 
