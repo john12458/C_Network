@@ -1,14 +1,14 @@
-###C Network
+### C Network
 
-1.##webFork.out
+1. ## webFork.out
 
-#From server.c, use by fork()
+# From server.c, use by fork()
 
-1.##webSelect.out
+1. ## webSelect.out
 
-#From serverSelect.c,use by select()
+# From serverSelect.c,use by select()
 
-1.##index.html
+1. ## index.html
 
-#demo for index
+# demo for index
 
