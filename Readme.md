@@ -16,4 +16,10 @@
 
 *The server will autoly open the "index.html" when client connected.
 
+## HW3
+
+ - ### hw.3c
+ 
+    Read the packets
+
 
