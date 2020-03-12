@@ -16,6 +16,10 @@
 
 *The server will autoly open the "index.html" when client connected.
 
+## HW2
+
+- Uncarefully,hw2.c was deleted by me before using git,only the output is reserved.
+
 ## HW3
 
  - ### hw.3c
